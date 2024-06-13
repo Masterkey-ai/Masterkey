@@ -38,8 +38,9 @@ Make sure all the checkmark boxes are unselected except for the one that says Ac
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/648a4041-bb9b-4d41-969b-6325fa7f032d)
 
 After this go back to your code and do the function control+shift+p if you're on a MacBook do comman+shift+p then search up the word interpreter and click on "Python: Select Interpreter".
-Make sure yours is set to Python 3.9.2 g4 bit global version.
+Make sure yours is set to Python 3.7.7 64-bit.
 
-![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/c064403f-ea58-4f8a-9b34-a4bc1bea4ce4)
+![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/9bd44db9-6aea-49ff-a202-f4674ce1cddd)
+
 STEP10:
 The final step is to press the run button and watch the Masterkey do its job
