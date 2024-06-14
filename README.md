@@ -12,7 +12,7 @@ Create a new project and make sure that when you are creating this you select th
 ![Screenshot 2024-06-13 184930](https://github.com/Masterkey-ai/Masterkey/assets/172676155/83fbcab4-984e-404d-a469-705480537d57)
 
 STEP4:
-After you have created this new project. Relocate the the MasterKey.py file in the GitHub repository and copy paste the code
+After you have created this new project. Relocate the MasterKey.py file in the GitHub repository and copy and paste the code
 
 
 
@@ -42,7 +42,7 @@ STEP10:
 Click on the link [https://www.python.org/downloads/release/python-377/](url) and install the circled interpreters based on your platform.
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/75f730d2-899c-4487-8a01-e34cedf14cd7)
 
-After this go back to your code and do the function control+shift+p if you're on a MacBook do comman+shift+p then search up the word interpreter and click on "Python: Select Interpreter".
+After this go back to your code and do the function control+shift+p if you're on a MacBook do command+shift+p then search up the word interpreter and click on "Python: Select Interpreter".
 Make sure yours is set to Python 3.7.7 64-bit. Or the one that you downloaded in step 9
 
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/9bd44db9-6aea-49ff-a202-f4674ce1cddd)
