@@ -21,9 +21,8 @@ STEP5: Now open the terminal by clicking on the second button to most bottom but
 
 STEP6:
 Copy and paste the following lines of code into the terminal:
-pip install opencv-python
-pip install mediapipe
-pip install numpy
+pip install opencv-python mediapipe numpy
+
 
 STEP7:
 Click on the file button at the top left corner then click preferences followed by the button settings
