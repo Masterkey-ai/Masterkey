@@ -12,8 +12,8 @@ Create a new project and make sure that when you are creating this you select th
 ![Screenshot 2024-06-13 184930](https://github.com/Masterkey-ai/Masterkey/assets/172676155/83fbcab4-984e-404d-a469-705480537d57)
 
 STEP4:
-After you have created this new project copy the code from this repository and paste it it should look like the image below:
-![Screenshot 2024-06-13 185053](https://github.com/Masterkey-ai/Masterkey/assets/172676155/3a4df21b-a9f9-48f5-9a5c-b2ad51df0c8f)
+After you have created this new project. Relocate the the MasterKey.py file in the GitHub repository and copy paste the code
+
 
 
 STEP5: Now open the terminal by clicking on the second button to most bottom button and click on the word terminal
