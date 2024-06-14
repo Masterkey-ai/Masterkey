@@ -17,7 +17,8 @@ After you have created this new project. Relocate the MasterKey.py file in the G
 
 
 STEP5: Now open the terminal by clicking on the second button to most bottom button and click on the word terminal
-![Screenshot 2024-06-13 185255](https://github.com/Masterkey-ai/Masterkey/assets/172676155/1075abc4-7d9f-4a3e-bd3c-a3ce7b2f31c4)
+![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/d422ba61-8283-4282-9c79-4654afc3d5ff)
+
 
 STEP6:
 Copy and paste the following lines of code into the terminal:
