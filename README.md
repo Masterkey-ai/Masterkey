@@ -34,12 +34,13 @@ In the search bar search up the word "environment" look at the left-hand bar and
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/8956421d-11e9-4463-88cd-fd8aded572a2)
 
 STEP9:
-Click on the link [https://www.python.org/downloads/release/python-377/](url) and install the circled interpreters based on your platform.
-![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/75f730d2-899c-4487-8a01-e34cedf14cd7)
-
-STEP10:
 Make sure all the checkmark boxes are unselected except for the one that says Activate Python environment in all terminals created
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/648a4041-bb9b-4d41-969b-6325fa7f032d)
+
+STEP10:
+
+Click on the link [https://www.python.org/downloads/release/python-377/](url) and install the circled interpreters based on your platform.
+![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/75f730d2-899c-4487-8a01-e34cedf14cd7)
 
 After this go back to your code and do the function control+shift+p if you're on a MacBook do comman+shift+p then search up the word interpreter and click on "Python: Select Interpreter".
 Make sure yours is set to Python 3.7.7 64-bit. Or the one that you downloaded in step 9
