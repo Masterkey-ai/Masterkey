@@ -30,7 +30,7 @@ Click on the file button at the top left corner then click preferences followed 
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/e7fa944a-f36d-48f1-9a80-758a55763834)
 
 STEP8:
-In the search bar search the word environment look at the left-hand bar and scroll down to the word python.
+In the search bar search up the word "environment" look at the left-hand bar and scroll down to the word python.
 ![image](https://github.com/Masterkey-ai/Masterkey/assets/172676155/8956421d-11e9-4463-88cd-fd8aded572a2)
 
 STEP9:
